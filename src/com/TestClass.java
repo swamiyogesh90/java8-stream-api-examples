@@ -118,11 +118,6 @@ public class TestClass {
 		System.out.println(max.get().getName() + " " + max.get().getAge() + " " + max.get().getDepartment());
 		
 		
-		
-		
-		
-		
-		
 	}
 
 }
